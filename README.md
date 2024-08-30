@@ -9,8 +9,8 @@
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65b712770c5481228352d955?variant=light)](https://roadmap.sh)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauebonfimm&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauebonfimm&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauebonfimm&count_private=true&show_icons=true&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauebonfimm&show_icons=true&include_all_commits=true&theme=transparent)
 
 
 ## Languages
